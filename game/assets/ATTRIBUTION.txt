@@ -1,0 +1,4 @@
+﻿KayKit external assets used in this project:
+- KayKit Adventurers Character Pack (CC0): https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0
+- KayKit Character Pack Skeletons (CC0): https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0
+- KayKit Dungeon Remastered (CC0): https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0
